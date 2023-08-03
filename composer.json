@@ -34,7 +34,7 @@
     "name": "pear/html_common",
     "support": {
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=HTML_Common",
-        "source": "https://github.com/pear/HTML_Common"
+        "source": "https://github.com/networkninja/alexescalona_HTML_Common"
     },
     "type": "library",
     "require": {
